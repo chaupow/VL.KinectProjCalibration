@@ -1,5 +1,6 @@
 # VL.KinectProjCalibration
 _Utilities to calibrate a Kinect V1 and a Projector in vvvv gamma_
+
 Ultimately, this provides a mapping from 3D Kinect space to your 2D projector's space.
 
 ## Requirements
