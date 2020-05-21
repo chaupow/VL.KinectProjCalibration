@@ -1,0 +1,9 @@
+C:\Users\chaup\OneDrive\Code\OpenCVHelpers\OpenCVHelpers\obj\Debug\OpenCVHelpers.csprojAssemblyReference.cache
+C:\Users\chaup\OneDrive\Code\OpenCVHelpers\OpenCVHelpers\obj\Debug\OpenCVHelpers.csproj.CoreCompileInputs.cache
+C:\Users\chaup\OneDrive\Code\OpenCVHelpers\OpenCVHelpers\bin\Debug\OpenCVHelpers.dll
+C:\Users\chaup\OneDrive\Code\OpenCVHelpers\OpenCVHelpers\bin\Debug\OpenCVHelpers.pdb
+C:\Users\chaup\OneDrive\Code\OpenCVHelpers\OpenCVHelpers\bin\Debug\OpenCvSharp.dll
+C:\Users\chaup\OneDrive\Code\OpenCVHelpers\OpenCVHelpers\bin\Debug\OpenCvSharp.xml
+C:\Users\chaup\OneDrive\Code\OpenCVHelpers\OpenCVHelpers\obj\Debug\OpenCVHelpers.csproj.CopyComplete
+C:\Users\chaup\OneDrive\Code\OpenCVHelpers\OpenCVHelpers\obj\Debug\OpenCVHelpers.dll
+C:\Users\chaup\OneDrive\Code\OpenCVHelpers\OpenCVHelpers\obj\Debug\OpenCVHelpers.pdb
