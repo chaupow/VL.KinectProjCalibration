@@ -17,6 +17,9 @@ Pretty sure this might not work out of the box because I'm not sure how to prope
 - Check the **HowTo Calibrate** patch on how to set calibration points and save the calibration.
 - Check the **HowTo Use a Calibration** patch on how to read a calibration file and map Kinect 3D to your projector space
 
+![](img/1.png)
+![](img/2.png)
+
 ## Questions?
 
 - Leave a GitHub issue or
